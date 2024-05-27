@@ -10,7 +10,7 @@ Responsive Layout: Adapts to different screen sizes for optimal viewing experien
 
 # Deployed Version
 
-The Animated Clock Web App is deployed and can be accessed here. **_DEMO-> (https://mendapararitik.github.io/Converter/) Animated Clock Web App Project_**
+The Animated Clock Web App is deployed and can be accessed here. **_DEMO-> (https://mendapararitik.github.io/Clock/) Animated Clock Web App Project_**
 
 # Technologies Used
 * HTML
